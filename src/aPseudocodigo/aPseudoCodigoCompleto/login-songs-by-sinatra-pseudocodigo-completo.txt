@@ -1,0 +1,11 @@
+* Abrir navegador (Chrome/firefox/explorer)
+
+* Abrir página web: http://songs-by-sinatra.herokuapp.com/
+
+* Hacer click al botón de "Log in"
+
+* Ingresar datos:
+  Username: frank
+  password: sinatra
+
+* Presionar enter

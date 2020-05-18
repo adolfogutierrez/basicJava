@@ -1,0 +1,27 @@
+* Abrir navegador (Chrome/firefox/explorer)
+
+* Abrir página web: http://songs-by-sinatra.herokuapp.com/
+
+* Hacer click al botón de "Log in"
+
+* Ingresar datos:
+  Username: frank
+  password: sinatra
+
+* Presionar enter
+
+* Hacer click en la tab de songs
+
+* Agregarle /new al final de la URL
+
+* Presionar enter
+
+* Ingresar datos:
+  Title: Uh lalalala
+  Lenght: 150
+  Date(mm/dd/yyyy): 05/28/2020
+  Lyrics: Uh lalalalala I love you baby!!! uh lalalalalallalala
+
+* Hacer click en el botón "save songs"
+
+* Difruta tu canción
